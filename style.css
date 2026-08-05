@@ -26,55 +26,57 @@ img{
 
 /* banner */
 .banner{
-width:86%;
+width: 82%;
+max-width:1320px;
 height: 600px;
-margin: 50px 140px 120px;
+margin: 50px auto;
 background-image:linear-gradient(rgba(7, 2, 17, 1),rgba(7, 2, 17, 0)),url('images/Banner\ Image.png');
 background-repeat: no-repeat;
 background-position: center;
 background-size:cover;
 border-radius: 16px;
-display: flex;
+display:flex;
 justify-content:center;
 align-items: center;
 text-align: center;
 
 }
 .banner-subtitle{
-    margin-bottom: 16px;
+    margin-bottom:16px;
     color: #ffffff;
-    font-size: 32px;
+    font-size:32px;
     font-family:merriweather;
 
 
 }
 .banner-title{
  color: #ffffff;
-    font-size: 72px;
+    font-size:72px;
     font-family:merriweather;
-    line-height: 95px;
+    line-height:95px;
 }
 
 /* discont 25% */
 .discount{
-  width: 802px;
-  height: 806px;
-  margin: 120px 399px 840px 399px;
-  display:block;
-  justify-content: center;
-  justify-items: center;
-  text-align: center;
+  width:82%;
+  max-width:1320px;
+  height:806px;
+  margin: 120px auto;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  text-align:center;
 }
 .discount h1{
   color: #FF0000;
-  font-family:inter;
+  font-family:inter,sans-serif;
   font-weight: bold;
   font-size:88px;
-  margin-bottom: 45px;
+  margin-bottom:45px;
 }
 .holiday{
   color: #FF0000;
-  font-family:inter;
+  font-family:inter,sans-serif;
   font: size 24px; 
   font-weight: 500;
  margin-bottom: 16px; 
@@ -87,6 +89,6 @@ text-align: center;
   margin-bottom:48px;
 }
 .discount img{
-  width: 800px;
+  max-width:800px;
   height: 500px;
 }
