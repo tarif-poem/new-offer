@@ -186,3 +186,69 @@ text-align: center;
 .event-content button:hover{
      background:#d80000;
 }
+/* coming soon */
+.coming-soon{
+  width: 82%;
+  max-width: 1320px;
+  height: 463px;
+  margin: 120px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.coming-content{
+  width: 30%;
+}
+.coming-subtitle{
+  color: #FF0000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+.coming-content h2{
+  color: #070211;
+  font-family: merriweather,serif;
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.coming-description{
+    color:#07021199;
+    font-size:16px;
+    line-height:28px;
+     max-width:400px;
+}
+.coming-image{
+  width: 33%;
+  display: flex;
+  justify-content: center;
+}
+.coming-image img{
+    width:360px;
+    height:360px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 15px solid #FF0000;
+    padding: 10px;
+    
+}
+.coming-year{
+    width:25%;
+}
+.coming-year h2{
+  color:#FF0000;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.coming-year p{
+  color: #07021199;
+  font-size: 16px;
+  line-height: 28px;
+  max-width: 280px;
+  margin-bottom: 20px;
+}
+.coming-year img{
+    width:100px;
+    margin-top:10px;
+}
