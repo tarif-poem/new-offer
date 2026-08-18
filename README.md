@@ -22,7 +22,6 @@ A simple, responsive New Year promo landing page built with HTML and CSS.
 - Hosted on GitHub Pages
 
 📂 Project Structure
-
 new-offer/
 │
 ├── icons/
