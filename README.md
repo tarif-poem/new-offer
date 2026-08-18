@@ -1,27 +1,28 @@
-🎉 New Year Offer Landing Page
+# 🎉 New Year Offer Landing Page
 
 A simple, responsive New Year promo landing page built with HTML and CSS.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-👉 "Check it out live" (https://tarif-poem.github.io/new-offer/)
+👉 [**Check it out live**](https://tarif-poem.github.io/new-offer/)
 
-
-
-🛠️ Tech Used
+## 🛠️ Tech Used
 
 - HTML5
 - CSS3
 
-✨ Features
+## ✨ Features
 
-- Works great on desktop screen sizes
+- Responsive design
 - Hero/banner section
-- Nice gradient overlay effects
+- Gradient overlay effects
 - Clean and modern UI
+- Works great on desktop screen sizes
 - Hosted on GitHub Pages
 
-📂 Project Structure
+## 📂 Project Structure
+
+```text
 new-offer/
 │
 ├── icons/
@@ -29,9 +30,10 @@ new-offer/
 ├── index.html
 ├── style.css
 └── README.md
+```
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-TARIF
+**TARIF**
 
-GitHub: "tarif-poem" (https://github.com/tarif-poem)💖💖💖
+GitHub: [tarif-poem](https://github.com/tarif-poem)
